@@ -1,1 +1,1 @@
-# ENPH213: Lab solutions
+# ENPH213: Labs
